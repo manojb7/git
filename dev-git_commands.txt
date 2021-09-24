@@ -1,0 +1,17 @@
+git remote
+git fetch origin
+git merge origin.master master
+git merge origin/master master
+git merge origin/main main
+git fetch origin
+git merge origin/main main
+git status
+git add README.md
+git status
+git push  origin master
+git push  origin main
+git remote show origin
+git commit -m "added some lines" "
+git commmit -m "added some lines" "
+git log --author 'manojb7@gmail.com'
+git diff
