@@ -13,3 +13,5 @@ git push  origin main
 git remote show origin
 git commit -m "added some lines" "
 git commmit -m "added some lines" "
+git log --author 'manojb7@gmail.com'
+git diff
